@@ -7,7 +7,7 @@
     <title>Chi tiết người dùng</title>
 </head>
 <body>
-    <h1>Chi tiết người dùng</h1>
+    <h1>users detail</h1>
     
     <p>ID: {{ $user->id }}</p>
     <p>Họ và tên: {{ $user->name }}</p>
